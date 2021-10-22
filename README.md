@@ -11,3 +11,6 @@ If you will to help me developing by installing the app and trying it out, maybe
 I actually am planning to make this open source, but I still don't know how.
 
 If you want to enjoy other apps I created, you're free to join telegram channel: https://t.me/laxapks
+
+## Libraries used:
+- <a href="https://github.com/bumptech/glide">Glide</a>
