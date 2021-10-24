@@ -1,4 +1,4 @@
-# Unofficial Android Shiny Tracker for PokéMMO
+# Unofficial Android Shiny Tracker Counter for PokéMMO
 
 This is actually my first real app I made (for myself mainly) with Sketchware Pro,
 
