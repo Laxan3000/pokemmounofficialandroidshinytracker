@@ -8,8 +8,6 @@ You can use this Tool for both PokéMMO Android and Desktop (by using popup or m
 
 If you will to help me developing by installing the app and trying it out, maybe suggesting new features or else, you would do me a favor, and I will thank you for that.
 
-I actually am planning to make this open source, but I still don't know how.
-
 If you want to enjoy other apps I created, you're free to join telegram channel: https://t.me/laxapks
 
 ## Libraries used:
