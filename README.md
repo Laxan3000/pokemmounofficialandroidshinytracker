@@ -8,7 +8,7 @@ You can use this Tool for both PokéMMO Android and Desktop (by using popup or m
 
 If you will to help me developing by installing the app and trying it out, maybe suggesting new features or else, you would do me a favor, and I will thank you for that.
 
-If you want to enjoy other apps I created, you're free to join telegram channel: https://t.me/laxapks
+If you want to enjoy other apps I created, you're free to join telegram channel: https://t.me/laxapks; or check my itch: laxan3000.itch.io
 
 ## Libraries used:
 - <a href="https://github.com/bumptech/glide">Glide</a>
