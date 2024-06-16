@@ -1,6 +1,6 @@
 # Unofficial Android Shiny Tracker Counter for PokéMMO
 
-This is actually my first real app I made (for myself mainly) with Sketchware Pro,
+This is actually my first real app I made (for myself mainly) with <a href="https://github.com/Sketchware-Pro/Sketchware-Pro">Sketchware Pro</a>,
 
 This app can be used to keep track of encounters for shiny hunting, payday, amulet coin farm and more (even if it was made just for shiny hunting)
 
